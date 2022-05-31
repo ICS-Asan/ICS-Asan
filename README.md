@@ -33,4 +33,4 @@
 - 기간: 2021-08-02 ~ 2021-09-03 `(1개월)`
 - Swift 기초 학습
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ICS-Asan&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ICS-Asan&show_icons=true&count_private=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
