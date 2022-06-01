@@ -11,7 +11,7 @@
 ---
 <img src="https://img.shields.io/badge/Swift-F05138?style=round-square&logo=swift&logoColor=white"/> <img src="https://img.shields.io/badge/iOS-000000?style=round-square&logo=apple&logoColor=white"/> <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/> <img src="https://img.shields.io/badge/git-F05032?style=round-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>
 
-📚Studing
+📚Studying
 
 <img src="https://img.shields.io/badge/RxSwift-B7178C?style=flat-square&logo=ReactiveX&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>
 
